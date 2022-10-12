@@ -1,0 +1,11 @@
+The level starts with the player in an enclosed space with a single opening. This sets the player up to be moving in the correct direction. From there, there are platforms with collectibles. These collectibles are an incentive for the player to continue moving forward, and the platforms are simple enough to allow the player to get used to the controls before moving on to the harder parts of the level.
+
+The mortar enemy is the first major obstacle of this level. If the player is able to continue past the mortar, they are rewarded with both a collectible and a health pickup. Besides being a reward, the health pickup also allows the player to recover some health before tackling the next obstacle.
+
+The next section contains some platforms and the pursuer enemy. If the player is good at platforming/recognize that they can, they will be able to use the platforms to completely avoid the pursuer enemy. However, if they go for the easier route (strictly in terms of platforming), they will have to be careful of the pursuer. Like with the mortar, the player will come across a collectible and a health pickup soon after passing the pursuer. 
+
+The next section has a handful of floating platforms. The smaller and more out of the way of these platforms have collectibles on them. This allows players who are looking for an extra challenge to have that, but if a player does not want to put in more effort than necessary, they do not have to utilize the smallest platforms.
+
+The last enemy is a cube that moves up and down and will damage and knock the player when hit. The section proceeding the floating platform has a field of these cube enemies. Among the cubes are health pickups and collectibles to encourage players to weave through the cubes rather than just taking the easiest route.
+
+The level concludes with some platforming to allow the player to sort of "decelerate" before reaching the end of the level. Overall, this level was designed in a way that increases the difficulty as the level progresses. Health pickups and collectibles are strategically placed in order to both reward the player and encourage them to explore beyond the straight path to the end.
